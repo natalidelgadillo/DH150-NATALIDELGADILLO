@@ -25,3 +25,8 @@ https://www.winc.com/wines
 > Winc is an online wine subscription service that allows you to try different kinds of wines every month. Winc connects you to a world of exclusive wines tailored to your preferences. When first joining, the website prompts you with a few starter steps. First, you answer 6 questions based on your existing wine preferences. After answering the questions, Winc recommends a few bottles that you may enjoy. After your first delivery, you rate the bottles to better customize your future deliveries. Winc has a minimal design and allows you to browse their wide variety of wine selections. The navigation features 5 selections: Profile, wines, gifts, discover, and invest.
 
 
+![Screenshot 1](./winc-screenshot.png)
+
+
+### Initial Evaluation
+> Winc has an easy to navigate, minimalist website from first impression. It is easy to find the main categories that would be most important to have on a wine subscription website. The very first page shows all of the different wines that they have and categorizes them by winemaking and even sweetness. It is slightly overwhelming how many options there are and how they are all layed out at once. As you scroll down, there are top rated wines and more categories to explore, somewhat repetitive.
