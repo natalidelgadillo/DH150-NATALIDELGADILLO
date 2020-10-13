@@ -185,6 +185,7 @@ Rating | Assessment
 1 | User does not get warning if shopping cart is accidentally cleared.
 3 | Website allows the user to add items that are out of stock and later removes them from the cart with an error message. Can be misleading and confusing for the user.
 
+![Screenshot 2](./wi.png)
 
 ### #6 Recognition rather than Recall   
 Rating | Assessment
@@ -194,7 +195,8 @@ Rating | Assessment
 2 | User does not have option to select a specific year of wine.
 3 | Under every category, the wines are not displayed in any particular order for the user. It is difficult for the user to easily differentiate between the winemakers since many are repeated in an odd order (e.g. Miller 2019 is listed first, Sharon 2010 is listed second, and Miller 2020 is listed 3rd) Grouping the wines by winemaker or at least in order would be helpful.
 
-![Screenshot 2](./wi.png)
+![Screenshot 2](./sh.png)
+
 
 ### #7 Flexibility and Efficiency of Use  
 Rating | Assessment
