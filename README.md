@@ -47,3 +47,4 @@ Rating | Assessment
 2 | Wine terminology may not be understood by new users. While most of the terms are common, certain ones could benefit from a small explanation when the user hovers over the word (e.g. body).
 
 
+![Screenshot 2](./term-screenshot.png)
