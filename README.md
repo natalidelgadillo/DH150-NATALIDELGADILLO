@@ -214,7 +214,7 @@ Rating | Assessment
 2 | Pop ups are very crowding and redundant. They should not appear so often as the user browses, especially the voucher pop ups.
 3 | Very distracting rating and price display. All the details should not be immediately displayed, it gives the user too much content to take in.
 
-
+![Screenshot 3](./last.png)
 
 ### #9 Help Users Recognize, Diagnose, and Recover from Errors  
 Rating | Assessment
