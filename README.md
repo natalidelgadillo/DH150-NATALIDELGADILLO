@@ -117,17 +117,21 @@ Rating | Assessment
 2 | When checking out, gives user error message that a certain amount of product must be added to purchase the subscription box. Would be better if told users before moving to checkout page.
 2 | When applying search filters, user can combine filters and now know which is out of stock. Needs an error message under specific filter.
 
-### #9 Help and Documentation 
+### #10 Help and Documentation 
 Rating | Assessment
 ------------ | -------------
 3 | No search bar present at all. The website needs a search bar to help users navigate products and find the items they want to purchase. The filters are helpful but do not allow the user to pinpoint exactly what they want.
 3 | Support is difficult to find. User must scroll to the bottom of the page to find help or FAQs.
 
 
-### Heuristic Evaluation of Website - WINC Wine Subscription Service 
+### Heuristic Evaluation of Website - Naked Wines Wine Subscription Service 
 
 
 
+https://us.nakedwines.com/full_site
+
+> Naked Wines is very similar to Winc in that it is a wine subscription service. Their wines come from independent wine makers and support many local vineyards. Naked wines has a wide selection of wine boxes and individual wines. A $100 voucher is offered when a user wants to try it for the first time. Also similar to Winc, the user takes a wine quiz to learn about their thoughts and preferences.
 
 
-
+### Initial Evaluation
+> Winc has an easy to navigate, minimalist website from first impression. It is easy to find the main categories that would be most important to have on a wine subscription website. The very first page shows all of the different wines that they have and categorizes them by winemaking and even sweetness. It is slightly overwhelming how many options there are and how they are all layed out at once. As you scroll down, there are top rated wines and more categories to explore, somewhat repetitive.
