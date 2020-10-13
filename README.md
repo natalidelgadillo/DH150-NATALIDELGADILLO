@@ -204,27 +204,27 @@ Rating | Assessment
 3 | The product prices are displayed in three categories: market price, angel price, and angel saving. The three categories are overwhelming to have stacked on top of each other. It would be best to have an "advanced savings" button to see how all the prices compare.
 
 
-![Screenshot 2](./no.png)
+![Screenshot 3](./no.png)
 
 ### #8 Aesthetic and Minimal Design
 Rating | Assessment
 ------------ | -------------
-2 | Too much italicization and boldness in headings and descriptions. At times difficult to focus on one aspect of the wine in the display since multiple things are being highlighted.
-2 | Product photos on website are not the most cohesive. Certain combinations of product are not edited with the same filter, background, aesthetic, etc. making it difficult to focus on one single wine.
-3 | Redundant prices and ratings. Multiple accounts of the same concept are not necessary (e.g. two icons representing ratings)
-
-![Screenshot 6](./photo.png)
+2 | Website has primary colors and very dull design. Looks very poorly made and could use new fonts. Also appears outdated and not modern.
+2 | On the home page, mixing wines with wine merchandise is very confusing to the eye. Both displays look similar and showcase wine. 
+2 | Pop ups are very crowding and redundant. They should not appear so often as the user browses, especially the voucher pop ups.
+3 | Very distracting rating and price display. All the details should not be immediately displayed, it gives the user too much content to take in.
 
 
 
 ### #9 Help Users Recognize, Diagnose, and Recover from Errors  
 Rating | Assessment
 ------------ | -------------
-2 | When checking out, gives user error message that a certain amount of product must be added to purchase the subscription box. Would be better if told users before moving to checkout page.
-2 | When applying search filters, user can combine filters and now know which is out of stock. Needs an error message under specific filter.
+2 | Error message is presented to the user when a wine is out of stock. Misleading that the user can add it, should have warning before user clicks on the preview.
+2 | Error message should be flashed when user accidentally clicks out of the survey. If user is far in the survey, may be difficult to start again.
 
 ### #10 Help and Documentation 
 Rating | Assessment
 ------------ | -------------
-3 | No search bar present at all. The website needs a search bar to help users navigate products and find the items they want to purchase. The filters are helpful but do not allow the user to pinpoint exactly what they want.
-3 | Support is difficult to find. User must scroll to the bottom of the page to find help or FAQs.
+1 | Live chat option needs a "proceed" option before it immediately connects you to a customer service agent. Very abrupt and intimidating if the user were just browsing the page.
+2 | "How it Works" section is very helpful but slightly crowded and redundant. Anything the user may easily know or find in other parts of the page should be removed.
+2 | Help and FAQs are difficult to find. User must scroll to the bottom of the page past many rows of content to find help. However, "Get in touch" button at the top of the page is well placed.
