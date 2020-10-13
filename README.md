@@ -89,3 +89,12 @@ Rating | Assessment
 3 | User does not have option to look through items from the same wine supplier. User must remember the name and scroll to find the similar products. 
 
 ![Screenshot 5](./red.png)
+
+### #7 Flexibility and Efficiency of Use  
+Rating | Assessment
+------------ | -------------
+1 | The "buy 4 bottles, get $20" promotion is not clear and is not clickable. It is not clear that it will be later applied without a code. Could be improved by a small "applied at checkout".
+2 | Ratings under wines could be improved to make page less cluttered. Instead of having both the stars and the point ratings, having only one would convey the same message. 
+3 | Product prices are displayed in two categories: With and without Winc. These side by side price comparisons make the section look cluttered and overwhelming. It would be better for the user if only one price appeared for the display and the second popped up when hovered over the product. 
+
+
