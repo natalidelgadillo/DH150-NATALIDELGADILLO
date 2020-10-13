@@ -93,8 +93,16 @@ Rating | Assessment
 ### #7 Flexibility and Efficiency of Use  
 Rating | Assessment
 ------------ | -------------
-1 | The "buy 4 bottles, get $20" promotion is not clear and is not clickable. It is not clear that it will be later applied without a code. Could be improved by a small "applied at checkout".
+2 | The "buy 4 bottles, get $20" promotion is not clear and is not clickable. It is not clear that it will be later applied without a code. Could be improved by a small "applied at checkout".
 2 | Ratings under wines could be improved to make page less cluttered. Instead of having both the stars and the point ratings, having only one would convey the same message. 
 3 | Product prices are displayed in two categories: With and without Winc. These side by side price comparisons make the section look cluttered and overwhelming. It would be better for the user if only one price appeared for the display and the second popped up when hovered over the product. 
 
 
+![Screenshot 6](./price.png)
+
+### #8 Aesthetic and Minimal Design
+Rating | Assessment
+------------ | -------------
+2 | Too much italicization and boldness in headings and descriptions. At times difficult to focus on one aspect of the wine in the display since multiple things are being highlighted.
+2 | Product photos on website are not the most cohesive. Certain combinations of product are not edited with the same filter, background, aesthetic, etc. making it difficult to focus on one single wine.
+3 | Redundant prices and ratings. Multiple accounts of the same concept are not necessary (e.g. two icons representing ratings)
