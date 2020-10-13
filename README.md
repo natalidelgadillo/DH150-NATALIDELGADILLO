@@ -194,17 +194,17 @@ Rating | Assessment
 2 | User does not have option to select a specific year of wine.
 3 | Under every category, the wines are not displayed in any particular order for the user. It is difficult for the user to easily differentiate between the winemakers since many are repeated in an odd order (e.g. Miller 2019 is listed first, Sharon 2010 is listed second, and Miller 2020 is listed 3rd) Grouping the wines by winemaker or at least in order would be helpful.
 
-
+![Screenshot 2](./wi.png)
 
 ### #7 Flexibility and Efficiency of Use  
 Rating | Assessment
 ------------ | -------------
-2 | The "buy 4 bottles, get $20" promotion is not clear and is not clickable. It is not clear that it will be later applied without a code. Could be improved by a small "applied at checkout".
-2 | Ratings under wines could be improved to make page less cluttered. Instead of having both the stars and the point ratings, having only one would convey the same message. 
-3 | Product prices are displayed in two categories: With and without Winc. These side by side price comparisons make the section look cluttered and overwhelming. It would be better for the user if only one price appeared for the display and the second popped up when hovered over the product. 
+2 | Wine beginners may be confused by the different badges and labels that the wines have in just the preview. The preview should be shorter and the description should feature all the additional badges.
+2 | Ratings for each wine clutter the page and are not very useful. The large red dot next to the prices could be changed, the user does not need to see every single number.
+3 | The product prices are displayed in three categories: market price, angel price, and angel saving. The three categories are overwhelming to have stacked on top of each other. It would be best to have an "advanced savings" button to see how all the prices compare.
 
 
-![Screenshot 6](./price.png)
+![Screenshot 2](./no.png)
 
 ### #8 Aesthetic and Minimal Design
 Rating | Assessment
