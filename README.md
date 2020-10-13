@@ -136,7 +136,7 @@ https://us.nakedwines.com/full_site
 ![Screenshot 1](./naked.png)
 
 ### Initial Evaluation
-> Naked Wines has many things going on at the same time. It is quite overwhelming when first looking at the website. On the home page, there is a prompt asking the user to take a wine survey in exchange for a voucher. As the user scrolls down the page, there are different wine categories saturated with wines of all kinds. The top menu is very simple and only has 4 categories: wine, how it works, voucher, log in. The extensive amount of options at first sight is my least favorite part of this website.
+> Naked Wines does not have the most minimal website design, it is quite overwhelming when first processing the page. On the home page, there is a prompt asking the user to take a wine survey in exchange for a voucher. As the user scrolls down the page, there are different wine categories saturated with wines of all kinds. The top menu is very simple and only has 4 categories: wine, how it works, voucher, log in. The extensive amount of options at first sight is my least favorite part of this website.
 
 
 ### #1 Visibility of System Status   
@@ -164,4 +164,15 @@ Rating | Assessment
 2 | Users cannot easily undo any added items if they accidentally click on the price of the wine. Although the button changes from price to "add", it may still be misleading to users.
 3 | When the user is working on their introductory survey to claim their promotional voucher, they cannot exit the page or return to the previous page without starting the survey over.
 
-![Screenshot 2](./ad.png)
+![Screenshot 2](./survey.png)
+
+
+
+### #4 Consistency and Standards   
+Rating | Assessment
+------------ | -------------
+1 | Arrows used to scroll through wines disappear after two rows. Would be useful if they did not disappear and instead displayed the items carousel style (e.g. Netflix's scrolling feature).
+2 | Much emphasis is placed on the voucher system but it is not consistent throughout website. Unclear whether a user must take the initial survey or simply put in their email to unlock the promotion.
+2 | Subcategories seem as though they can have the same meaning. No clear difference between "groups", "winemakers", and "angels". Would be useful to insert short description when user hovers over the category.
+3 | Question mark icon and "we're not sure" subheading is very confusing and may dissuade the user. Although it is refering to not being sure if it is the type of wine you will like, the placement and wording is confusing.
+
