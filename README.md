@@ -87,3 +87,5 @@ Rating | Assessment
 2 | User does not have option to filter exact flavors and ingredients.
 2 | User does not have option to select a specific year of wine.
 3 | User does not have option to look through items from the same wine supplier. User must remember the name and scroll to find the similar products. 
+
+![Screenshot 5](./red.png)
