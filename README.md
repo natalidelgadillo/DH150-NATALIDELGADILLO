@@ -147,7 +147,7 @@ Rating | Assessment
 2 | Many actions require a "sign up" or account. Users should be able to navigate and know the status of their commands without the pop up distracting them.
 3 | User cannot click on the categories listed on the home page when it appears that you can. Very misleading and difficult to understand how to get to category without directly clicking on it.
 
-![Screenshot 2](./naked.png)
+![Screenshot 2](./ad.png)
 
 ### #2 Match between System and Real World   
 Rating | Assessment
@@ -160,5 +160,8 @@ Rating | Assessment
 ### #3 User Control and Freedom   
 Rating | Assessment
 ------------ | -------------
-1 | User loses place in list when clicking back and forth between wines.
-2 | Cannot easily undo any items that have been accidentally removed from shopping cart. In addition, user cannot easily remove items accidentally added to shopping cart.
+1 | Users may accidentally click on the question mark button above the preview of a wine and be redirected to another page. Would be easier for the user if the question mark featured a pop up instead of a redirection. 
+2 | Users cannot easily undo any added items if they accidentally click on the price of the wine. Although the button changes from price to "add", it may still be misleading to users.
+3 | When the user is working on their introductory survey to claim their promotional voucher, they cannot exit the page or return to the previous page without starting the survey over.
+
+![Screenshot 2](./ad.png)
