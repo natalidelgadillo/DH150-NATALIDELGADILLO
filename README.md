@@ -106,3 +106,5 @@ Rating | Assessment
 2 | Too much italicization and boldness in headings and descriptions. At times difficult to focus on one aspect of the wine in the display since multiple things are being highlighted.
 2 | Product photos on website are not the most cohesive. Certain combinations of product are not edited with the same filter, background, aesthetic, etc. making it difficult to focus on one single wine.
 3 | Redundant prices and ratings. Multiple accounts of the same concept are not necessary (e.g. two icons representing ratings)
+
+![Screenshot 6](./photo.png)
