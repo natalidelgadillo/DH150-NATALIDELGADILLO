@@ -133,5 +133,32 @@ https://us.nakedwines.com/full_site
 > Naked Wines is very similar to Winc in that it is a wine subscription service. Their wines come from independent wine makers and support many local vineyards. Naked wines has a wide selection of wine boxes and individual wines. A $100 voucher is offered when a user wants to try it for the first time. Also similar to Winc, the user takes a wine quiz to learn about their thoughts and preferences.
 
 
+![Screenshot 1](./naked.png)
+
 ### Initial Evaluation
-> Winc has an easy to navigate, minimalist website from first impression. It is easy to find the main categories that would be most important to have on a wine subscription website. The very first page shows all of the different wines that they have and categorizes them by winemaking and even sweetness. It is slightly overwhelming how many options there are and how they are all layed out at once. As you scroll down, there are top rated wines and more categories to explore, somewhat repetitive.
+> Naked Wines has many things going on at the same time. It is quite overwhelming when first looking at the website. On the home page, there is a prompt asking the user to take a wine survey in exchange for a voucher. As the user scrolls down the page, there are different wine categories saturated with wines of all kinds. The top menu is very simple and only has 4 categories: wine, how it works, voucher, log in. The extensive amount of options at first sight is my least favorite part of this website.
+
+
+### #1 Visibility of System Status   
+Rating | Assessment
+------------ | -------------
+1 | When a user hovers over wine titles and descriptions, multiple things can pop up at once. It is distracting and doesn't notify user of system status.
+1 | Notifies user when item is placed in cart. Could be improved by including less details in the pop up, making it easier to digest.
+2 | Many actions require a "sign up" or account. Users should be able to navigate and know the status of their commands without the pop up distracting them.
+3 | User cannot click on the categories listed on the home page when it appears that you can. Very misleading and difficult to understand how to get to category without directly clicking on it.
+
+![Screenshot 2](./naked.png)
+
+### #2 Match between System and Real World   
+Rating | Assessment
+------------ | -------------
+1 | Selling terminology and categories are similar and redundant at times, could confuse the user (e.g. best offers & best sellers). 
+1 | Some colorful terminology may be difficult to digest. This website features words that are very uncommon and not generally known by the average person (e.g. scintillating).
+2 | Wine terminology may not be understood by new wine users. While most of the terms are common, certain ones could benefit from a small explanation when the user hovers over the word.
+
+
+### #3 User Control and Freedom   
+Rating | Assessment
+------------ | -------------
+1 | User loses place in list when clicking back and forth between wines.
+2 | Cannot easily undo any items that have been accidentally removed from shopping cart. In addition, user cannot easily remove items accidentally added to shopping cart.
