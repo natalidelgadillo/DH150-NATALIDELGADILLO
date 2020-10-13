@@ -66,4 +66,24 @@ Rating | Assessment
 3 | User is not provided with an easily accessible search bar. Difficult to locate desired item immediately by name or company since there is no search bar.
 
 
-![Screenshot 3](./term-screenshot.png)
+![Screenshot 3](./circle-screenshot.png)
+
+
+![Screenshot 4](./title-screenshot.png)
+
+
+
+### #5 Error Prevention   
+Rating | Assessment
+------------ | -------------
+1 | User is not warned if more than one of the same wine is added more than once.
+1 | When registering, there is no double confirmation of password. Some websites ask the user to input their passwords twice to limit error.
+2 | There is no warning if the user clears out their saved wines, Winc simply clears the selections.
+
+### #6 Recognition rather than Recall   
+Rating | Assessment
+------------ | -------------
+1 | User is not given explanations of why added wines are similar to the recommended ones.
+2 | User does not have option to filter exact flavors and ingredients.
+2 | User does not have option to select a specific year of wine.
+3 | User does not have option to look through items from the same wine supplier. User must remember the name and scroll to find the similar products. 
