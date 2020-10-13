@@ -76,7 +76,7 @@ Rating | Assessment
 ### #5 Error Prevention   
 Rating | Assessment
 ------------ | -------------
-1 | User is not warned if more than one of the same wine is added more than once.
+1 | User is not warned if more than one of the same wine is added more than once. The user could accidentally buy the same product multiple times without a warning.
 1 | When registering, there is no double confirmation of password. Some websites ask the user to input their passwords twice to limit error.
 2 | There is no warning if the user clears out their saved wines, Winc simply clears the selections.
 
@@ -108,3 +108,26 @@ Rating | Assessment
 3 | Redundant prices and ratings. Multiple accounts of the same concept are not necessary (e.g. two icons representing ratings)
 
 ![Screenshot 6](./photo.png)
+
+
+
+### #9 Help Users Recognize, Diagnose, and Recover from Errors  
+Rating | Assessment
+------------ | -------------
+2 | When checking out, gives user error message that a certain amount of product must be added to purchase the subscription box. Would be better if told users before moving to checkout page.
+2 | When applying search filters, user can combine filters and now know which is out of stock. Needs an error message under specific filter.
+
+### #9 Help and Documentation 
+Rating | Assessment
+------------ | -------------
+3 | No search bar present at all. The website needs a search bar to help users navigate products and find the items they want to purchase. The filters are helpful but do not allow the user to pinpoint exactly what they want.
+3 | Support is difficult to find. User must scroll to the bottom of the page to find help or FAQs.
+
+
+### Heuristic Evaluation of Website - WINC Wine Subscription Service 
+
+
+
+
+
+
