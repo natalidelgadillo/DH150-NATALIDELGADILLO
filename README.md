@@ -177,3 +177,54 @@ Rating | Assessment
 3 | Question mark icon and "we're not sure" subheading is very confusing and may dissuade the user. Although it is refering to not being sure if it is the type of wine you will like, the placement and wording is confusing.
 
 ![Screenshot 2](./not.png)
+
+
+### #5 Error Prevention   
+Rating | Assessment
+------------ | -------------
+1 | User does not get warning if shopping cart is accidentally cleared.
+3 | Website allows the user to add items that are out of stock and later removes them from the cart with an error message. Can be misleading and confusing for the user.
+
+
+### #6 Recognition rather than Recall   
+Rating | Assessment
+------------ | -------------
+2 | User does not have option to select exact ingredients.
+2 | User does not have option to select organic and vegan options. If there is a diertary restriction that the user has, could be a big problem for the sellers of the wine.
+2 | User does not have option to select a specific year of wine.
+3 | Under every category, the wines are not displayed in any particular order for the user. It is difficult for the user to easily differentiate between the winemakers since many are repeated in an odd order (e.g. Miller 2019 is listed first, Sharon 2010 is listed second, and Miller 2020 is listed 3rd) Grouping the wines by winemaker or at least in order would be helpful.
+
+
+
+### #7 Flexibility and Efficiency of Use  
+Rating | Assessment
+------------ | -------------
+2 | The "buy 4 bottles, get $20" promotion is not clear and is not clickable. It is not clear that it will be later applied without a code. Could be improved by a small "applied at checkout".
+2 | Ratings under wines could be improved to make page less cluttered. Instead of having both the stars and the point ratings, having only one would convey the same message. 
+3 | Product prices are displayed in two categories: With and without Winc. These side by side price comparisons make the section look cluttered and overwhelming. It would be better for the user if only one price appeared for the display and the second popped up when hovered over the product. 
+
+
+![Screenshot 6](./price.png)
+
+### #8 Aesthetic and Minimal Design
+Rating | Assessment
+------------ | -------------
+2 | Too much italicization and boldness in headings and descriptions. At times difficult to focus on one aspect of the wine in the display since multiple things are being highlighted.
+2 | Product photos on website are not the most cohesive. Certain combinations of product are not edited with the same filter, background, aesthetic, etc. making it difficult to focus on one single wine.
+3 | Redundant prices and ratings. Multiple accounts of the same concept are not necessary (e.g. two icons representing ratings)
+
+![Screenshot 6](./photo.png)
+
+
+
+### #9 Help Users Recognize, Diagnose, and Recover from Errors  
+Rating | Assessment
+------------ | -------------
+2 | When checking out, gives user error message that a certain amount of product must be added to purchase the subscription box. Would be better if told users before moving to checkout page.
+2 | When applying search filters, user can combine filters and now know which is out of stock. Needs an error message under specific filter.
+
+### #10 Help and Documentation 
+Rating | Assessment
+------------ | -------------
+3 | No search bar present at all. The website needs a search bar to help users navigate products and find the items they want to purchase. The filters are helpful but do not allow the user to pinpoint exactly what they want.
+3 | Support is difficult to find. User must scroll to the bottom of the page to find help or FAQs.
