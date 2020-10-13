@@ -36,7 +36,7 @@ https://www.winc.com/wines
 Rating | Assessment
 ------------ | -------------
 1 | When a user hovers over the main 5 categories, "Invest" does not light up the same way that the others do.
-1 | When adding an item to the shopping cart, the user does not get notified that the item has been added. The user must look at the shopping cart to see their item number increase.
+2 | When adding an item to the shopping cart, the user does not get notified that the item has been added. The user must look at the shopping cart to see their item number increase.
 
 
 ### #2 Match between System and Real World   
@@ -48,3 +48,22 @@ Rating | Assessment
 
 
 ![Screenshot 2](./term-screenshot.png)
+
+
+### #3 User Control and Freedom   
+Rating | Assessment
+------------ | -------------
+1 | User loses place in list when clicking back and forth between wines.
+2 | Cannot easily undo any items that have been accidentally removed from shopping cart. In addition, user cannot easily remove items accidentally added to shopping cart.
+
+
+### #4 Consistency and Standards   
+Rating | Assessment
+------------ | -------------
+1 | Some products do not have titles. You must click on the photo to learn the name of the wine.
+2 | No arrows to scroll through wines, user must click on circles below widget to switch pages.
+2 | Certain wine categories are redundant and appear multiple times per page.
+3 | User is not provided with an easily accessible search bar. Difficult to locate desired item immediately by name or company since there is no search bar.
+
+
+![Screenshot 3](./term-screenshot.png)
