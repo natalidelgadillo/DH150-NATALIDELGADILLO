@@ -173,6 +173,7 @@ Rating | Assessment
 ------------ | -------------
 1 | Arrows used to scroll through wines disappear after two rows. Would be useful if they did not disappear and instead displayed the items carousel style (e.g. Netflix's scrolling feature).
 2 | Much emphasis is placed on the voucher system but it is not consistent throughout website. Unclear whether a user must take the initial survey or simply put in their email to unlock the promotion.
-2 | Subcategories seem as though they can have the same meaning. No clear difference between "groups", "winemakers", and "angels". Would be useful to insert short description when user hovers over the category.
+2 | Subcategories seem as though they can have the same meaning. No clear difference between "groups," "winemakers," and "angels". Would be useful to insert short description when user hovers over the category.
 3 | Question mark icon and "we're not sure" subheading is very confusing and may dissuade the user. Although it is refering to not being sure if it is the type of wine you will like, the placement and wording is confusing.
 
+![Screenshot 2](./not.png)
