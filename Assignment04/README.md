@@ -23,4 +23,9 @@
 > Preferences: Prefer to not spend too much time shopping in stores and selecting products. Want something that makes a decision for them so that they don't have to make one themselves. Enjoy online shopping and receiving things straight to their home. 
 > Expertise: Users do not need any particular level of expertise to use this application. 
 
-###
+### Where would the users do that activity? (i.e., context of use)
+> Users would do the activity on their personal digital devices and try the wines at home. Users would need technology to create an account, complete their preference quiz, and sign up for a subscription service. They would after receive the wine in the mail and try it at home before reviewing it to better personalize their next batch. 
+
+### What would the users do to complete that activity? (e.g., goal, operation, method, action)
+
+>
