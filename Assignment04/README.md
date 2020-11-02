@@ -12,7 +12,15 @@
 
 
 ### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-The current limitations that could be improved with digital technology are the testing of a user's wine preferences and the accessibility a user has to their desired products. Technology would allow the user to get their prefered wine delivered to their front door with just subscribing online. An online quiz and questionaires would allow the suppliers to know what kind of wine the user prefers and would enjoy the most. Technology would facilitate many inconveniences that come with shopping in person, especially during the current pandemic. 
+>The current limitations that could be improved with digital technology are the testing of a user's wine preferences and the accessibility a user has to their desired products. Technology would allow the user to get their prefered wine delivered to their front door with just subscribing online. An online quiz and questionaires would allow the suppliers to know what kind of wine the user prefers and would enjoy the most. Technology would facilitate many inconveniences that come with shopping in person, especially during the current pandemic. 
 
 
 
+## Step 02: Target Users
+
+### What are the characteristics of users? (ex. demographics, preference, expertise) 
+> Demographic: Middle aged women searching for products and services that make them happy. Typically enjoy a glass of wine during dinner or after a long day. Also busy and cannot spend too much time looking for their favorite wines in stores.
+> Preferences: Prefer to not spend too much time shopping in stores and selecting products. Want something that makes a decision for them so that they don't have to make one themselves. Enjoy online shopping and receiving things straight to their home. 
+> Expertise: Users do not need any particular level of expertise to use this application. 
+
+###
