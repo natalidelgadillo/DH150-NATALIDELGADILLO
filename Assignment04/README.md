@@ -42,5 +42,16 @@
 > The link to the interview audio is here: https://drive.google.com/file/d/1Ro7rdZQbrJPvM-nCDWOOSldtC7Q_FpiX/view?usp=sharing
 
 ## Interview Insights
-> 1. The user is typically busy and prefers to do online shopping. 
+### 1. The user is typically busy and finds it inconvenient to walk to the store. 
 >  I would say I'm pretty busy with school, maybe a few hours a day per week. Sometimes it is inconvenient to go to the store because I have to walk to the store and it's a bit tiring. 
+
+### 2. The user finds it convenient to do their shopping online.
+> Yeah, it makes things a lot easier when you don't have to go places in person. It's a lot more convenient, it saves time and you don't have to leave your house.
+
+### 3. The user liked the concept of subscribing to a wine service and would consider it.
+> I think I always like using technology to look for things because it makes things easier. I didn't know wine subscription services existed. I definitely trust online less than in person. But I don't think there's anything wrong with purchasing wine online. And I am very open to doing so.
+
+### 4. The user gets frustrated and unhappy when she runs out of wine and has to plan out a trip to the store.
+Um, I get a little frustrated that first because I really wanted some wine. Usually it takes you by surprise. And then I have to plan when I'm going to go get it because I have a pretty busy schedule. And then I have to pick which grocery store to go to because some have cheaper wines and some have nicer wines.
+
+
