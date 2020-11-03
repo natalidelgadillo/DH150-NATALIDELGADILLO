@@ -28,4 +28,11 @@
 
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 
->
+> Users would need to go out or online and purchase their wine. They would need to want to spend money on wine and make a selection of what kind they would prefer.
+
+
+## Step 03: Pick research methods 
+> The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. I also had her work from her desk at home to ensure she was comfortable and in her everyday setting.
+
+## Step 04: Observation/Interview Guide 
+> The link to the interview script is here.
