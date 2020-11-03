@@ -52,6 +52,14 @@
 > I think I always like using technology to look for things because it makes things easier. I didn't know wine subscription services existed. I definitely trust online less than in person. But I don't think there's anything wrong with purchasing wine online. And I am very open to doing so.
 
 ### 4. The user gets frustrated and unhappy when she runs out of wine and has to plan out a trip to the store.
-Um, I get a little frustrated that first because I really wanted some wine. Usually it takes you by surprise. And then I have to plan when I'm going to go get it because I have a pretty busy schedule. And then I have to pick which grocery store to go to because some have cheaper wines and some have nicer wines.
+>Um, I get a little frustrated that first because I really wanted some wine. Usually it takes you by surprise. And then I have to plan when I'm going to go get it because I have a pretty busy schedule. And then I have to pick which grocery store to go to because some have cheaper wines and some have nicer wines. And then I have to figure out when I'm going to go which I think I already said that. And then I'm just planning the trip and coming back and that always takes a decent amount of time. 
+
+### 5. The user prefers to not visit stores as much due to COVID-19.
+> Yes. COVID-19 makes me want to go to the stores less and less. It hinders me when maybe I don't have enough time.
+
+
+
+## Step 06: Reflection
+As I wrote up my interview questions, I did not know exactly what to expect from my participant. I had a few questions that may have revealed whether or not she was in my audience target, such as knowing whether she drank wine or not. I did enjoy looking at the activities and questions through her eyes, the different perspective helped me. Looking into her interests and preferences gave me a fresh intake of online shopping versus shopping in person. It was also important to note that the COVID-19 questions could have gone either way. Her answers helped understand how a busy student who has anxiety about the pandemic feels about shopping for their favorite goods in store. However, I did encounter a few problems while interviewing my participant. Some questions she was not sure how to answer or was afraid she was saying too much or too little. There was also a few lags with Otter transcription that made our dialogues mash together. My experience was mostly positive though, as she was a tech savy wine drinker who was looking for a faster and safer way to purchase her wine. I did notice her open up more to the idea of signing up for a subscription service once she visited a few websites and saw the wines offered. She enjoyed how there was a fair selection of wines online that were not available at the store. Her perspective has really helped assist in the kind of design I want to do, especially with the new challenges of shopping in a pandemic. 
 
 
