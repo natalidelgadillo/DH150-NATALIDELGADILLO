@@ -35,4 +35,6 @@
 > The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. I also had her work from her desk at home to ensure she was comfortable and in her everyday setting.
 
 ## Step 04: Observation/Interview Guide 
-> The link to the interview script is here.
+>The link to the interview script is here: https://docs.google.com/document/d/1dXprIIZYifgY5NE-obqdrKvf9omo_kmDCoiLjRw4voU/edit
+> The link to the transcription is here: https://docs.google.com/document/d/1J1GRViupMWPQaUjjylptGJfGB1eaT1v5KDpsktFw7l0/edit?usp=sharing
+> The link to the interview audio is here: https://drive.google.com/file/d/1Ro7rdZQbrJPvM-nCDWOOSldtC7Q_FpiX/view?usp=sharing
