@@ -16,8 +16,21 @@ We can put ourselves in someone else's perspective and design in a way that does
 
 ## Persona & Empathy Maps 
 
-![Screenshot 1](./lil.png)
-![Screenshot 2](./lil2.png)
 
+## Persona 1: Lily Van der Woodsen
+
+![Screenshot 1](./lil.png)
+![Screenshot 2](./lil2.jpg)
+
+
+## Lily's Scenario & Journey Map
+
+![Screenshot 2](./lil3.jpg)
+
+## Persona 2: Brock Davis
 ![Screenshot 1](./bro1.png)
 ![Screenshot 1](./bro2.png)
+
+## Brock's Scenario & Journey Map
+
+![Screenshot 2](./bro3.png)
