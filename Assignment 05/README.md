@@ -16,4 +16,4 @@ We can put ourselves in someone else's perspective and design in a way that does
 
 ## Persona & Empathy Maps 
 
-![Screenshot 1](./winc-screenshot.png)
+![Screenshot 1](./lil.png)
