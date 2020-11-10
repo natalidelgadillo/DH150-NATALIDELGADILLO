@@ -34,3 +34,7 @@ We can put ourselves in someone else's perspective and design in a way that does
 ## Brock's Scenario & Journey Map
 
 ![Screenshot 2](./bro3.png)
+
+## Reflection
+> The process of coming up with Personas and Empathy Maps was very interesting. I had a fun time creating these people that gave me a new design perspective. I really enjoyed coming up with the small details, it made their profile more realistic.
+> I hope next time I am better prepared to create interesting personas, especially now that I have had practice. One challenge I will address is uploading my visualizations. I was able to design the maps well, but they did not appear as high quality as I designed them. Hopefully I can find a better way to upload them in the future.
