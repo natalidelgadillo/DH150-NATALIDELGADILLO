@@ -1,10 +1,10 @@
 # Assignment 05: UX Storytelling
 ## The Purpose of UX Story telling
-> ① By having Personas, we can understand the world of our Users as if they were closer to us than they are.
+> ① By having Personas, we can understand the world of our users as if they are closer to us than they actually are.
 We can put ourselves in someone else's perspective and design in a way that does not just favor our personal bias.
 
 
-> ② UX Storytelling gives us a fresh set of eyes to understand and explore different design options.
+> ② UX Storytelling gives us a fresh set of eyes to understand and explore the world of UX.
 
 
 > ③ Empathy Maps and Scenarios allow us to articulate and visualize what we know about the user we are designing for. It is a helpful tool when deciding the trade-offs of a design.
