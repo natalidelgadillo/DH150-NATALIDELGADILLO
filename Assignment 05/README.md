@@ -16,4 +16,4 @@ We can put ourselves in someone else's perspective and design in a way that does
 
 ## Persona & Empathy Maps 
 
-![UX](./UXSTORYTELLING.pdf)
+![UX](./UX STORYTELLING.pdf)
