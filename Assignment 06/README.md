@@ -32,3 +32,8 @@ The task is to find wine delivery for an event, preferably a scheduled one where
 More information about user personas can be found [HERE](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment%2005/README.md).
 
 ### Wireframes 
+
+> Wireframes PDF can be found  [HERE](https://docs.google.com/document/d/1BStsFFZ4bYWEO2oJd55VYmL9byiCq10f3kRtMSU1RIw/edit?usp=sharing).
+
+### Wireflows
+>
