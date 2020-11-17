@@ -60,4 +60,5 @@ More information about user personas can be found [HERE](https://github.com/nata
  
  
 ### Reflection
+> Crafting my Low Fidelity Prototype was an interesting educational experience. I enjoyed creating a mental model of what I believed my features would look like once integrated into the website. As I drew out my wireframes, I was really able to connect my designing strategy to the experience I wanted to give my user. Although it was not easy and I had to make edits several times, I enjoyed the process of first creating wireframes and then the wireflow. I believe the most helpful part of this assignment was getting feedback from my User, Emily. As well as I thought I had designed my website, there was still many edits I did not think of making before testing my user. One really important takeaway I have learned from this course so far is that there is always that can be improved in the eyes of the users. 
 
