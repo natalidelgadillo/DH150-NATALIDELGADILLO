@@ -52,6 +52,12 @@ More information about user personas can be found [HERE](https://github.com/nata
 > Testing Wireflow on User, Emily Stokes.
 >> ![Screenshot 24](./test.png)
 >>
-
+#### Confusions or Unexpected Interactions
+ > As my participant, Emily Stokes, navigated through the wireflow, I noticed a few mistakes I made. She pointed out how she would usually use features of the website and how some of the features I designed made her experience positive. However, I did notice that I missed a few important widgets and buttons. In certain wireframes, I was too focused on the design and layout that I did not add "NEXT" or "CONTINUE" buttons, making it difficult for Emily to continue navigating the website to do her tasks. She also allowed me to notice that I did not incorporate descriptions on certain features that were not self-explanatory. In my future design, I will double-check to make sure there are not features that can confuse my user. Emily also added that a confirmation wireframe should be added. In other words, after my user completed her order for her event, she wanted to see a page that thanked her or confirmed her order. 
+ 
+ 
+ 
+ 
+ 
 ### Reflection
 
