@@ -2,7 +2,7 @@
 
 
 ## Project Description
-#### Purpose:
+### Purpose:
 >This project aims to solve any user challenges that may arise when signing up for a wine subscription service.
 I want to find whether or not the features I have designed help the process run more smoothly and promote user satisfaction. The features I have designed 
 to improve a wine subscription service are as follow:
@@ -17,11 +17,9 @@ most important.
 find a filter that allows them to set up a scheduled wine delivery. The filter will appear when users select their service, but will be promoted under the services tab.
 
 ##### 3. Recommendation Meter 
-> Reviews and recommendations can make or break a product, the user needs to have easy access to them. Next to every bottle of wine, there will be a re
+> Reviews and recommendations can make or break a product, the user needs to have easy access to them. Next to every bottle of wine, there will be a recommendation meter that provides the average reviews on a ratio scale of 1-10. By limiting the reviews to a ratio scale instead of stars or percentages, the reviews will be more straightforward for the user.
 
 #### User Personas:
 > The target audience for my product are middle-aged women who are looking for products and services that make them happy. 
-However, I am also targeting users who love wine and would benefit from an online service. My users understand
-how to use technology and the internet, but I still want to make the website accessibility friendly. Based on my user research,
-users enjoy websites that are easy to navigate, not difficult to endure, and exciting to explore. 
+However, I am also targeting users who love wine and would benefit from an online service. Targeted users understand how to use technology and the internet, but want an accessibility friendly website. Based on my user research, users enjoy websites that are simple understand, answer their questions before they are asked, and are not too challenging to navigate. Users want a solid solution for their problem and do not wish to work harder on an internet solution than they would by purchasing their wine in store.
 
