@@ -45,9 +45,13 @@ More information about user personas can be found [HERE](https://github.com/nata
 
 > ![Screenshot 23](./wire.png)
 
+#### Flow Description:
+> The user will first arrive to the homepage of the wine subscription service. Next to the name of the website, there are 5 menu options and an icon representing a shopping cart. The menu reads: Wines, cases, winemakers, services, and quiz. The user will then create their profile and click the "get started" button to take their personalization quiz. The button will take them to a new page where they will take their quiz. After finishing their quiz, a new page with wine recommendations will appear. The "Recommendation Meter" will reveal the average reviews of the given wines so that the user can decide which they want to add to their cart. Once the wines are added to the cart, the users will be presented with a window showing their current cart and other recommendations. After reviewing the cart, the user will click on "Continue to subscription plans" and will be navigated to a new window. This new window will display the different services the user can sign up for. If the user wants to order wine delivery for an event, this is where they will select the option. By selecting "Event Delivery," the user will fill out their information and delivery details before confirming the order. This flow incorporates 3 features: Quiz, Recommendation Meter, and Event Delivery Filter. 
+
 ### Prototype Testing
 > Testing Wireflow on User, Emily Stokes.
 >> ![Screenshot 24](./test.png)
+>>
 
 ### Reflection
 
