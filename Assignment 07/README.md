@@ -21,4 +21,15 @@ that are clear and not difficult to understand. The icons are modeled "lineraly"
 
 ### Prototype
 > Link to Adobe XD Prototype: https://xd.adobe.com/view/2f094c21-d1f7-4cb4-4806-595dda4e7505-5938/
+
+
 > In my current prototype and design, I featured the two scenearios I described in my past assignments. The first is the personalization quiz available when the user clicks "Get Started" in either the menu or home page. After the user completes the quiz and continues, the top recommendations are presented along with the option to add them to cart. The cart page then recommends even more wines before check out. The check out allows the user to select the subscription service and the page leads to a confirmation. The second task is booking event delivery. Here the user can click on "services" or at checkout be led to services. The services then lead to a booking page where the user must select a date, time, and enter their personal information. After this page, the user can check out and get a confirmation notice.
+
+
+
+![Screenshot 1](./1.png)
+![Screenshot 1](./2.png)
+![Screenshot 1](./3.png)
+![Screenshot 1](./4.png)
+
+
