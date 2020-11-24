@@ -1,7 +1,7 @@
 ## Assignment 07: High Fidelity Prototype
 ### Description of Project
 
->  For this protytpe, I am building a website where consumers can purchase fine wines from the comfort of their own homes. 
+>  For this protype, I am building a website where consumers can purchase fine wines from the comfort of their own homes. 
 My website is designed to make the online shopping experience as seemless and enjoyable as possible, even if a consumer is not very technologically experienced. I have also incorporated a few features tailored to a specific kind of consumer, a personalization quiz and event delivery service.
 The graphic design of my page features a color palette inspired by the different array of wines that inspired this project. From a Merlot magenta to a soft orange resembling moscato, the colors tell a story of their own. I have also selected icons and images
 that are clear and not difficult to understand. The icons are modeled "lineraly" and are all cohesive with each other throughout the pages. I have currently digitalized my wireframes to match the personal scenearios from the previous weeks.
@@ -31,5 +31,6 @@ that are clear and not difficult to understand. The icons are modeled "lineraly"
 ![Screenshot 1](./2.png)
 ![Screenshot 1](./3.png)
 ![Screenshot 1](./4.png)
+![Screenshot 1](./5.png)
 
 
