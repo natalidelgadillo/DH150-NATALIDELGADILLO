@@ -22,7 +22,7 @@ Source: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-p
 
 https://www.winc.com/wines
 
-> Winc is an online wine subscription service that allows you to try different kinds of wines every month. Winc connects you to a world of exclusive wines tailored to your preferences. When first joining, the website prompts you with a few starter steps. First, you answer 6 questions based on your existing wine preferences. After answering the questions, Winc recommends a few bottles that you may enjoy. After your first delivery, you rate the bottles to better customize your future deliveries. Winc has a minimal design and allows you to browse their wide variety of wine selections. The navigation features 5 selections: Profile, wines, gifts, discover, and invest.
+> Winc is an online wine subscription service that allows you to try different kinds of wines every month. Winc connects you to a world of exclusive wines tailored to your preferences. When first joining, the website prompts you with a few starter steps. First, you answer 6 questions based on your existing wine preferences. After answering the questions, Winc recommends a few bottles that you may enjoy. After your first delivery, you rate the bottles to better customize your future deliveries. Winc has a minimal design and allows you to browse their wide variety of wine selections. The navigation features 5 selections: Profile, wines, gifts, discover, and invesst.
 
 
 ![Screenshot 1](./winc-screenshot.png)
