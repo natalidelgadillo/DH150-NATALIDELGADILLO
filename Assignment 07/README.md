@@ -19,18 +19,29 @@ that are clear and not difficult to understand. The icons are modeled "lineraly"
 > When creating my protoype, I wanted to select a color palette that resembled the idea behind my design. When purchasing items, it is nice to have a color scheme that reminds you of what you are purhcasing. To find colors similar to that of an array of different wines, I used Adobe Color. With Adobe color, I found the perfect shades of orange and magenta that would fit the aesthetic design of my website. Before applying my colors, I made sure to test the color contrast for accessibility WCAG2.0 AA level. I used 5 colors for my design: Black (#1C1515), Light Orange (#F0A254), White (#FFFFFF), Light Magenta (#C9597B), and Light Pink (#FAF3F3). My colors all pass the ratio guidelines and the meet the accessibility AA level.
 ![Screenshot 1](./color.png)
 
-### Prototype
-> Link to Adobe XD Prototype: https://xd.adobe.com/view/2f094c21-d1f7-4cb4-4806-595dda4e7505-5938/
+### Interactive Prototypes Supported 
+> Link to Adobe XD Prototype: https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/
+
+#### 1. Browsing wines and viewing their "Cloud Meter" Rating
+#### 2. Accessing and getting results for the wine personalization quiz
+#### 3. A HOME button in the middle of the menu bar that allows users to return to the home page easily
+#### 4. A menu where each button leads users to what they are searching for, whether that be wines, cases, etc.
+#### 5. Subscription Service tab allows users to explore their montly options
 
 
-> In my current prototype and design, I featured the two scenearios I described in my past assignments. The first is the personalization quiz available when the user clicks "Get Started" in either the menu or home page. After the user completes the quiz and continues, the top recommendations are presented along with the option to add them to cart. The cart page then recommends even more wines before check out. The check out allows the user to select the subscription service and the page leads to a confirmation. The second task is booking event delivery. Here the user can click on "services" or at checkout be led to services. The services then lead to a booking page where the user must select a date, time, and enter their personal information. After this page, the user can check out and get a confirmation notice.
+
+> In my current prototype and design, I featured three tasks that I described in my Persona assignment. The first is the personalization quiz available when the user clicks "Get Started" in either the menu or home page. After the user completes the quiz and continues, the top recommendations are presented along with the option to add them to cart. The cart page then recommends even more wines before check out. The check out allows the user to select the subscription service and the page leads to a confirmation. The second task is booking event delivery. Here the user can click on "services" or at checkout be led to services. The services then lead to a booking page where the user must select a date, time, and enter their personal information. After this page, the user can check out and get a confirmation notice. I also added a third feature that allows users to perform the task of reviewing wine ratings at a glance on a ratio scale of 1-10. The feature is called the "Cloud Meter" and is under every wine and case.
 
 
 
-![Screenshot 1](./1.png)
-![Screenshot 1](./2.png)
-![Screenshot 1](./3.png)
-![Screenshot 1](./4.png)
-![Screenshot 1](./5.png)
+### Protype Design
+
+#### Representative Screen Designs
+
+![Screenshot 1](./color.png)
 
 
+
+#### Wireflow with Graphic Designs
+
+![Screenshot 1](./color.png)
