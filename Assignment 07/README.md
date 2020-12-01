@@ -38,10 +38,13 @@ that are clear and not difficult to understand. The icons are modeled "lineraly"
 
 #### Representative Screen Designs
 
-![Screenshot 1](./color.png)
+![Screenshot 1](./rep.png)
 
 
 
 #### Wireflow with Graphic Designs
 
-![Screenshot 1](./color.png)
+![Screenshot 1](./wire.png)
+
+
+### Cognitive Walkthrough
