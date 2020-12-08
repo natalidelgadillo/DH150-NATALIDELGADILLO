@@ -8,6 +8,8 @@
 
 ### Design Statement
 
+My design's purpose is to bring joy to middle-aged women who enjoy wine but may not know what their favorite bottle is or may not have time to purchase wine. Wine tasting is a universally enjoyable experience, but may be out of reach for those who do not live near a vineyard or do not have the resources to experience it. On Cloud Wine allows users to try different wines every month based on their personalization quiz. My project also aims to make the wine selection process simple and enjoyable for the user, with many recommendations and different categroies clearly labeled. Users do not need to be the most technologically advanced to be able to navigate the website and understand the different types of wine subscription services that there are.
+
 ### Competitor Analysis: Heuristic Evaluation
 
 ### Competitor Analysis: Usability Testing
