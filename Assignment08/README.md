@@ -12,8 +12,11 @@
 
 ### Competitor Analysis: Heuristic Evaluation
 
-In order to improve features in the design of my project, I analyzed the user experience designs of other wine subscription service websites. From my research, I found two top online sellers, Winc and Naked Wines. By improving UX design, the sites would allow for an easier, more personal experience to those seeking to find their favorite wine. I found both websites offer a very differnet approach but integrate similar features. Through this heuristic evaluation, I explored the positives and negatives of my competitors' designs and user features.
+> In order to improve features in the design of my project, I analyzed the user experience designs of other wine subscription service websites. From my research, I found two top online sellers, Winc and Naked Wines. By improving UX design, the sites would allow for an easier, more personal experience to those seeking to find their favorite wine. I found both websites offer a very differnet approach but integrate similar features. Through this heuristic evaluation, I explored the positives and negatives of my competitors' designs and user features.
 
+| Winc | Total Wines |
+| ------------- | ------------- |
+| ![Screenshot 1](./winc-screenshot.png) | ![Screenshot 1](./naked.png)  |
 
 
 
