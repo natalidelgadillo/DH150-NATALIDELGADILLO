@@ -16,7 +16,7 @@
 
 | Winc | Total Wines |
 | ------------- | ------------- |
-| ![Screenshot 1](./winc-screenshot.png) | ![Screenshot 1](./naked.png)  |
+| ![Screenshot 1](./winc.png) | ![Screenshot 1](./nakedwines.png)  |
 
 
 
