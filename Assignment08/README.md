@@ -2,6 +2,9 @@
 
 ## By Natali Delgadillo
 
+> On Cloud Wine is an online wine subscription service that facilitates the process of sampling and purchasing different kinds of wines on a monthly basis. It allows the user to purchase a variety of wines and have them easily delivered to their doorstep. The target users of the service are those who may be too busy to find their favorite wines or simply want a simpler alternative to going to the grocery store every time they need wine. After conducting user research, a personalization quiz, event service, and ratings meter would benefit the overall user experience of the wine shopper. 
+
+
 ### Introduction 
 
 ### Design Statement
