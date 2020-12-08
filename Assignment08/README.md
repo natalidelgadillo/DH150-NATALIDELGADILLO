@@ -18,11 +18,16 @@
 | ------------- | ------------- |
 | ![Screenshot 1](./winc.png) | ![Screenshot 1](./nakedwines.png)  |
 
-See the complete evaluation [here](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO)
+See the complete evaluation [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO)
 
-### Competitor Analysis: Usability Testing
 
 ### User Research: Contextual Inquiry
+After conducting a heuristic evaluation, I identified my target users and conducted an interview. The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. Looking into her interests and preferences gave me a fresh intake of online shopping versus shopping in person. It was also important to note that the COVID-19 questions could have gone either way. Her answers helped understand how a busy student who has anxiety about the going to stores feels about shopping for their favorite goods in store. 
+
+
+See the complete documentation of contextual inquiry [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment04/README.md)
+
+
 
 ### UX Storytelling
 
