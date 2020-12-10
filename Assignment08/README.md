@@ -22,7 +22,7 @@ See the complete evaluation [here.](https://github.com/natalidelgadillo/DH150-NA
 
 
 ### User Research: Contextual Inquiry
-After conducting a heuristic evaluation, I identified my target users and conducted an interview. The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. Looking into her interests and preferences gave me a fresh intake of online shopping versus shopping in person. It was also important to note that the COVID-19 questions could have gone either way. Her answers helped understand how a busy student who has anxiety about the going to stores feels about shopping for their favorite goods in store. 
+> After conducting a heuristic evaluation, I identified my target users and conducted an interview. The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. Looking into her interests and preferences gave me a fresh intake of online shopping versus shopping in person. It was also important to note that the COVID-19 questions could have gone either way. Her answers helped understand how a busy student who has anxiety about the going to stores feels about shopping for their favorite goods in store. 
 
 
 See the complete documentation of contextual inquiry [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment04/README.md)
@@ -30,7 +30,19 @@ See the complete documentation of contextual inquiry [here.](https://github.com/
 
 
 ### UX Storytelling
+> By having Personas, we can understand the world of our users as if they are closer to us than they actually are.
+We can put ourselves in someone else's perspective and design in a way that does not just favor our personal bias. UX Storytelling gives us a fresh set of eyes to understand and explore the world of UX. Empathy Maps and Scenarios allow us to articulate and visualize what we know about the user we are designing for. It is a helpful tool when deciding the trade-offs of a design.
 
+## Key Features in Design:
+> 1. Event Delivery Option with Filters
+
+> 2. Personalized Monthly Quiz with Recommendations 
+
+> 3. Ratings Meter
+
+
+
+View the full personas and scenarios [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/edit/main/Assignment%2005/README.md)
 
 ### Wireframe and Graphic Design Element Variation
 
