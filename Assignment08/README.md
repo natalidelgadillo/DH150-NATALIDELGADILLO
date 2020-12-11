@@ -20,6 +20,12 @@
 
 See the complete evaluation [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO)
 
+### Competitor Analysis: Usability Testing
+
+> The purpose of a usability test (UT) is to identify and fix any usability issues that a user may encounter. It is essential to ensure that a user can use and navigate a website, application, or product. UT allows the designers to identify issues from a heuristic evaluation that may be fixed to improve the user experience. By directly identifying the challenges a user may experience during a recorded session, the correction process is made much simpler. The UT assessed three metrics of usability: effectiveness, satisfaction, and efficiency.  For the test, I inserted a pre-test questionnaire that measured the user's initial perception of the Naked Wines website. After the pre-test, I walked the user through three tasks that required their exploration and interactions with the Naked Wines website. After the user completed the tasks, a post-test questionnaire measured their experience navigating the website. It surveyed their experience, ease with navigation, and personal likelihood of repeating a task. The SUS, or System Usability Scale, followed the post-test questionnaire. 
+
+
+View the full usability testing [here.](https://github.com/natalidelgadillo/DH150/tree/main/ASSIGNMENT2)
 
 ### User Research: Contextual Inquiry
 > After conducting a heuristic evaluation, I identified my target users and conducted an interview. The observation methods I used were participatory observation and interview. I had my participant search for wine online and asked questions based off of their wine purchasing habits. Looking into her interests and preferences gave me a fresh intake of online shopping versus shopping in person. It was also important to note that the COVID-19 questions could have gone either way. Her answers helped understand how a busy student who has anxiety about the going to stores feels about shopping for their favorite goods in store. 
