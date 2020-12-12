@@ -46,6 +46,8 @@ We can put ourselves in someone else's perspective and design in a way that does
 
 > 3. Ratings Meter
 
+>![Screenshot 1](./bro.png) 
+>![Screenshot 1](./li.png) 
 
 
 View the full personas and scenarios [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/edit/main/Assignment%2005/README.md)
