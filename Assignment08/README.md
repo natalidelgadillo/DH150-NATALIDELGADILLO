@@ -39,7 +39,7 @@ See the complete documentation of contextual inquiry [here.](https://github.com/
 > By having Personas, we can understand the world of our users as if they are closer to us than they actually are.
 We can put ourselves in someone else's perspective and design in a way that does not just favor our personal bias. UX Storytelling gives us a fresh set of eyes to understand and explore the world of UX. Empathy Maps and Scenarios allow us to articulate and visualize what we know about the user we are designing for. It is a helpful tool when deciding the trade-offs of a design.
 
-## Key Features in Design:
+#### Key Features in Design:
 > 1. Event Delivery Option with Filters
 
 > 2. Personalized Monthly Quiz with Recommendations 
@@ -52,10 +52,33 @@ We can put ourselves in someone else's perspective and design in a way that does
 
 View the full personas and scenarios [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/edit/main/Assignment%2005/README.md)
 
-### Wireframe and Graphic Design Element Variation
 
 ### Low-fidelity Prototype
 
+My low-fidelity prototype aims to solve any user challenges that may arise when signing up for a wine subscription service.
+I want to find whether or not the features I have designed help the process run more smoothly and promote user satisfaction. The features I have designed 
+to improve a wine subscription service are as follow:
+
+
+#### Features and Tasks:
+> 
+##### 1. Personalization Quiz Tab 
+> Users will immediately spot the "Personalization Quiz" tab on the upper right hand side of the website. By spotting this tab, users will
+take their wine quiz and unlock their preferences and a discount. The tab will stand out from the other menu options since it is essentially one of the
+most important. The task is to find a way to personalize wine to the user's liking, especially if they rely on recommendations for purchases.
+
+
+##### 2. Event Delivery Filter
+> For users who are looking for a service that caters for their events and gatherings, the event delivery filter will be present. When filtering through wine subscription packages (e.g. 6 per month/ 12 per month/ etc.), users will 
+find a filter that allows them to set up a scheduled wine delivery. The filter will appear when users select their service, but will be promoted under the services tab. 
+The task is to find wine delivery for an event, preferably a scheduled one where the user can select different wines.
+
+##### 3. Recommendation Meter 
+> Reviews and recommendations can make or break a product, the user needs to have easy access to them. Next to every bottle of wine, there will be a recommendation meter that provides the average reviews on a ratio scale of 1-10. By limiting the reviews to a ratio scale instead of stars or percentages, the reviews will be more straightforward for the user. The task is to find a bottle or two that have a meter score of 8 and above.
+
+
+
+### Wireframe and Graphic Design Element Variation
 
 ### High-fidelity Prototype
 
