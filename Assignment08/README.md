@@ -76,9 +76,16 @@ The task is to find wine delivery for an event, preferably a scheduled one where
 ##### 3. Recommendation Meter 
 > Reviews and recommendations can make or break a product, the user needs to have easy access to them. Next to every bottle of wine, there will be a recommendation meter that provides the average reviews on a ratio scale of 1-10. By limiting the reviews to a ratio scale instead of stars or percentages, the reviews will be more straightforward for the user. The task is to find a bottle or two that have a meter score of 8 and above.
 
+View the prototype testing and wireflows [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment%2006/README.md)
 
 
 ### Wireframe and Graphic Design Element Variation
+> Below I have my low-fidelity and high-fidelity wireflows showing the different features and tasks designed for this project.
+
+>![Screenshot 1](./bro.png) 
+>![Screenshot 1](./bro.png) 
+
+Access ny wireflows on Adobe XD [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment%2006/README.md)
 
 ### High-fidelity Prototype
 
