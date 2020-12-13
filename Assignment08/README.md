@@ -88,7 +88,13 @@ View the prototype testing and wireflows [here.](https://github.com/natalidelgad
 Access the wireflows on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/)
 
 ### High-fidelity Prototype
-<a href=”https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen” width=”125″ height=”12″ /></a>
+> My high-fidelity prototype is designed to make the online shopping experience as seemless and enjoyable as possible, even if a consumer is not very technologically experienced. I have also incorporated a few features tailored to a specific kind of consumer, a personalization quiz and event delivery service. The graphic design of my page features a color palette inspired by the different array of wines that inspired this project. From a Merlot magenta to a soft orange resembling moscato, the colors tell a story of their own. I have also selected icons and images that are clear and not difficult to understand. The icons are modeled "lineraly" and are all cohesive with each other throughout the pages. I have currently digitalized my wireframes to match the personal scenearios from the previous weeks.
+
+
+>![Screenshot 1](./home.png) 
+Access the high-fidelity prototype on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen)
+
+>
 
 ### Evaluation and Revision History
 
