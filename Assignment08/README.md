@@ -82,8 +82,8 @@ View the prototype testing and wireflows [here.](https://github.com/natalidelgad
 ### Wireframe and Graphic Design Element Variation
 > Below I have my low-fidelity and high-fidelity wireflows showing the different features and tasks designed for this project.
 
->![Screenshot 1](./bro.png) 
->![Screenshot 1](./bro.png) 
+>![Screenshot 1](./wire.png) 
+>![Screenshot 1](./draw.png) 
 
 Access ny wireflows on Adobe XD [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment%2006/README.md)
 
