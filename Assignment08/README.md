@@ -89,7 +89,7 @@ Access the wireflows on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b
 
 ### High-fidelity Prototype
 <a href=”https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen” width=”125″ height=”12″ /></a>
-https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen
+
 ### Evaluation and Revision History
 
 ### Pitch Video
