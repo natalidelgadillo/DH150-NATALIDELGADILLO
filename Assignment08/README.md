@@ -85,10 +85,11 @@ View the prototype testing and wireflows [here.](https://github.com/natalidelgad
 >![Screenshot 1](./draw.png) 
 >![Screenshot 1](./wire.png) 
 
-Access ny wireflows on Adobe XD [here.](https://github.com/natalidelgadillo/DH150-NATALIDELGADILLO/blob/main/Assignment%2006/README.md)
+Access the wireflows on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/)
 
 ### High-fidelity Prototype
-
+<a href=”https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen” width=”125″ height=”12″ /></a>
+https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen
 ### Evaluation and Revision History
 
 ### Pitch Video
