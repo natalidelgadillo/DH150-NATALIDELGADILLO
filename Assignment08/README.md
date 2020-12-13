@@ -94,9 +94,28 @@ Access the wireflows on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b
 >![Screenshot 1](./home.png) 
 Access the high-fidelity prototype on Adobe XD [here.](https://xd.adobe.com/view/0ee43859-bf8b-497e-6f1a-150cf490c173-78d5/?fullscreen)
 
->
 
 ### Evaluation and Revision History
+In order to improve my design, I conducted a cognitive walkthrough with my classmates and an impression test with my roommate. Both insights helped me revise various aspects of my design that were misleading or not well executed. In addition, I recieved comments from my UX professor that allowed me to fix details and important aspects that I was missing from my website.
+
+#### Top findings:
+
+> 1. The background image was too saturated and distracting.  
+
+> 2. The placement of certain buttons was confusing and needed to be better placed.
+
+> 3. The text boxes were not saturated enough and were hard to read.
+
+> 4. Certain slides had dead-ends and needed a back and forth button.
+
+> 5. Service tab was not well explained, users did not understand before adding description.
+
+> 6. Concept of website was not well explained, had to add "Wine subscription service" to homepage.
+
+> 7. Order confirmation page was missing, users were confused what occured after cart.
+
+
+
 
 ### Pitch Video
 
