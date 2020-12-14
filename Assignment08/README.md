@@ -131,3 +131,5 @@ In order to improve my design, I conducted a cognitive walkthrough with my class
 > • Every design has it's flaws. It is important to try and address those flaws as best as possible instead of completely concealing their existence .
 
 > • Criticism is essential and necessary when designing for a user's experience, without it there is no perspective other than our own. 
+
+Overall, this course was very enriching and hands on. I enjoyed being able to design an idea completely from scratch while conducting research and tests to better it. I also liked all of the peer reviews and in class activities that made the UX experience more collaborative. I appreciate how the course has allowed me to gain knowledge in virtual tools, such as Github, Figma, Google Sheets, and Adobe XD, that I will continue to need and use in the Digital Humanities minor and future career. 
