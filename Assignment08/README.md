@@ -24,7 +24,8 @@ See the complete evaluation [here.](https://github.com/natalidelgadillo/DH150-NA
 
 > The purpose of a usability test (UT) is to identify and fix any usability issues that a user may encounter. It is essential to ensure that a user can use and navigate a website, application, or product. UT allows the designers to identify issues from a heuristic evaluation that may be fixed to improve the user experience. By directly identifying the challenges a user may experience during a recorded session, the correction process is made much simpler. The UT assessed three metrics of usability: effectiveness, satisfaction, and efficiency.  For the test, I inserted a pre-test questionnaire that measured the user's initial perception of the Naked Wines website. After the pre-test, I walked the user through three tasks that required their exploration and interactions with the Naked Wines website. After the user completed the tasks, a post-test questionnaire measured their experience navigating the website. It surveyed their experience, ease with navigation, and personal likelihood of repeating a task. The SUS, or System Usability Scale, followed the post-test questionnaire. 
 
-
+<iframe src= "https://drive.google.com/file/d/1EiN28Sar3olg6fFIa6-ZG0Hl0F01UIED/view" width="640" height="480">
+</iframe>
 
 View the full usability testing [here.](https://github.com/natalidelgadillo/DH150/tree/main/ASSIGNMENT2)
 
