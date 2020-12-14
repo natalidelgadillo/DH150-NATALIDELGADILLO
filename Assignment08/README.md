@@ -118,7 +118,7 @@ In order to improve my design, I conducted a cognitive walkthrough with my class
 
 ### Pitch Video
 
-[![Pitch Video](thumbnail-image)](https://www.youtube.com/embed/CYL6bP6PYRM) 
+[![Pitch Video]((http://img.youtube.com/vi/VIDEO-ID/0.CYL6bP6PYRM)](https://www.youtube.com/embed/CYL6bP6PYRM) 
 
 ### Conclusion
 
