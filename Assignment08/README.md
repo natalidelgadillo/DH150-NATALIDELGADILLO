@@ -24,9 +24,6 @@ See the complete evaluation [here.](https://github.com/natalidelgadillo/DH150-NA
 
 > The purpose of a usability test (UT) is to identify and fix any usability issues that a user may encounter. It is essential to ensure that a user can use and navigate a website, application, or product. UT allows the designers to identify issues from a heuristic evaluation that may be fixed to improve the user experience. By directly identifying the challenges a user may experience during a recorded session, the correction process is made much simpler. The UT assessed three metrics of usability: effectiveness, satisfaction, and efficiency.  For the test, I inserted a pre-test questionnaire that measured the user's initial perception of the Naked Wines website. After the pre-test, I walked the user through three tasks that required their exploration and interactions with the Naked Wines website. After the user completed the tasks, a post-test questionnaire measured their experience navigating the website. It surveyed their experience, ease with navigation, and personal likelihood of repeating a task. The SUS, or System Usability Scale, followed the post-test questionnaire. 
 
-> <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 
 View the full usability testing [here.](https://github.com/natalidelgadillo/DH150/tree/main/ASSIGNMENT2)
@@ -124,3 +121,13 @@ In order to improve my design, I conducted a cognitive walkthrough with my class
 ### Pitch Video
 
 ### Conclusion
+
+> Taking this course has taught me many things about UX Design that had never crossed my mind before. From selecting colors that had proper accessibility ratings to the placement of text on my website, this course left me with a lot of new UX knowledge. Using new tools, such as Figma and Adobe XD, was one of my favorite parts of the quarter. I enjoyed using Adobe XD to create my wireframes and prototypes, especially with all of their fun features. Below I've listed a few of the most important points I learned from creating this project from scratch:
+
+> • Placement is extremely important in UX design. Some pathways that I designed were not well executed at first due to the lack of direction and proper placement.
+
+> • It is important to take many users' perspectives into account whemn designing, but there will always be trade-offs since not everyone can be satisfied. 
+
+> • Every design has it's flaws. It is important to try and address those flaws as best as possible instead of completely concealing their existence .
+
+> • Criticism is essential and necessary when designing for a user's experience, without it there is no perspective other than our own. 
